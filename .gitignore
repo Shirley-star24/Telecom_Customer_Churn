@@ -211,6 +211,15 @@ tempCodeRunnerFile.py
 
 # Marimo
 marimo/_static/
+
+#Custom additionsa for data science projects
+*.csv
+*.xlsx
+data/
+datasets/
+*.pkl
+*.joblib
+
 marimo/_lsp/
 __marimo__/
 
