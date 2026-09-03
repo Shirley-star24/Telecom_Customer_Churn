@@ -21,7 +21,7 @@ Since churn labels were not available, the analysis emphasizes **customer segmen
 - **Plotly Express** for interactive dashboards
 - **ipywidgets** for dropdown-based interactivity
 - **Scikit-learn** (planned) for clustering and predictive modeling
-
+-**scipy**to perform some statistivcal analysis Chi square tests and Z-test to determine feature significance
 ---
 
 ## 📊 Key Features
