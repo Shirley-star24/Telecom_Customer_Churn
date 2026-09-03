@@ -1,4 +1,4 @@
-om Customer Segmentation & Seniority Analysis
+
 
 ## Project Overview
 This project explores customer service usage patterns in a telecom dataset, focusing on **seniority (Non-Senior vs Senior)** and **gender differences**.  
